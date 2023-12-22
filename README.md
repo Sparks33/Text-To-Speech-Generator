@@ -39,7 +39,7 @@ pip install gtts os platform subprocess
 
 ## Support
 
-For any questions or issues, join our [Discord Server](https://discord.gg/pEVh58ER4z) or check out the [YouTube video tutorial]([https://www.youtube.com/watch?v=your-youtube-video-id).
+For any questions or issues, join our [Discord Server](https://discord.gg/pEVh58ER4z) or check out the [YouTube video tutorial](https://youtu.be/IsGLsoAnYeE?si=uriMNJZSDYpl5iAd).
 
 ## License
 
